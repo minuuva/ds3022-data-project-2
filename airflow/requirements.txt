@@ -1,0 +1,4 @@
+boto3>=1.28.0
+httpx>=0.25.0
+requests>=2.31.0
+dapache-airflow==2.7.0

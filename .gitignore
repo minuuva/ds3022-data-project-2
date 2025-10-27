@@ -1,0 +1,27 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Airflow files
+airflow.db
+airflow.cfg
+airflow/logs/
+airflow/airflow.db
+airflow/airflow.cfg
+
+# Log files
+*.log
+
+# AWS credentials / EC2 keys
+*.pem
+
+# OS files
+.DS_Store
+
