@@ -10,7 +10,7 @@ from typing import List, Tuple
 @dag(
     dag_id='sqs-message-assembler-airflow',
     description="Data Project 2 - Airflow DAG",
-    schedule='@once',
+    schedule=None,
     start_date=datetime(2025, 10, 26),
     catchup=False,
     tags=['sqs', 'data-pipeline', 'ds3022']

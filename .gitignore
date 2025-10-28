@@ -12,9 +12,11 @@ __pycache__/
 # Airflow files
 airflow.db
 airflow.cfg
+webserver_config.py
 airflow/logs/
 airflow/airflow.db
 airflow/airflow.cfg
+airflow/webserver_config.py
 
 # Log files
 *.log
