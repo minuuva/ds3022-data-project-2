@@ -30,4 +30,6 @@ airflow/webserver_config.py
 # Docker / Environment files
 .env
 postgres-db-volume/
+docker-compose.yml
+Dockerfile
 
