@@ -27,3 +27,7 @@ airflow/webserver_config.py
 # OS files
 .DS_Store
 
+# Docker / Environment files
+.env
+postgres-db-volume/
+
